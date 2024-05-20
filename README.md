@@ -25,7 +25,7 @@ Talk with your team and choose one of these cookiecutter templates and run it to
 
 ## Task Board
 
-It's not exactly time yet, but if you're excited I don't want to stand in the way. For (at least) the last 6 weeks of the semester, we'll organize your work into 2-week "Sprints" using a "task board". GitHub has a feature that the unfortunately call "projects" that we can use to plan and coordinate. There are many templates available, perhaps the "Featued" template titled "Iterative Developement" would be a good choice.
+It's not exactly time yet, but if you're excited I don't want to stand in the way. For (at least) the last 6 weeks of the semester, we'll organize your work into 2-week "Sprints" using a "task board". GitHub has a feature that the unfortunately call "projects" that we can use to plan and coordinate. There are many templates available, perhaps the "Featued" template titled `Iterative Development` would be a good choice.
 
 1. Find the "Projects" tab at the top of your repo in github
 2. Click the arrow beside the green "Link Project" button and choose "New Project"
